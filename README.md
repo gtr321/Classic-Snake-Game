@@ -44,7 +44,7 @@ Since this is a single-file project, running it is straightforward:
 ## Notes
 
 <details><summary>Spoiler</summary>
-**This was made by me for fun using AI.**
+This was made by me for fun using AI.
 </details>
 
 ## Potential Future Improvements
